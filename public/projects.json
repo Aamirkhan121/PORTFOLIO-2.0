@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Fake-Api E-commerce",
+      "category": "Api",
+      "image": "images/project-1.png",
+      "link":"https://fakeapi-ecommerce-website.netlify.app"
+    },
+    {
+      "id": 2,
+      "title": "Khan E-commerce",
+      "category": "React",
+      "image": "images/project-10.png",
+      "link":"https://khan-ecommerce.netlify.app"
+    },
+    {
+      "id": 3,
+      "title": "PSD Converted To HTML & CSS Code",
+      "category": "PSD TO CODE",
+      "image": "images/project-3.png",
+      "link":" https://aamirkhan121.github.io/IDDO/"
+    },
+    {
+      "id": 4,
+      "title": "Food Agency",
+      "category": "React",
+      "image": "images/project-5.png",
+      "link":"https://food-agency-app.netlify.app"
+    },
+    {
+      "id": 5,
+      "title": "BootStrap Website",
+      "category": "Bootstrap",
+      "image": "images/project-6.png",
+      "link":"https://aamirkhan121.github.io/Bootstrap-1-project/"
+    },
+    {
+      "id": 6,
+      "title": "PSD Converted To HTML & CSS Code",
+      "category": "PSD TO CODE",
+      "image": "images/project-7.png",
+      "link":" https://aamirkhan121.github.io/happy/"
+    },
+    {
+      "id": 7,
+      "title": "Weather App",
+      "category": "Api",
+      "image": "images/project-8.png",
+      "link":"https://weather-api-react-js.netlify.app"
+    },
+    {
+      "id": 8,
+      "title": "Food Delivery",
+      "category": "React",
+      "image": "images/project-11.png",
+      "link":"https://food-delivery736.netlify.app"
+    },
+    {
+      "id": 9,
+      "title": "Food Delivery MERN",
+      "category": "Application",
+      "image": "images/project-11.png",
+      "link":"https://food-delivery-frontend-nwym.onrender.com"
+    },
+    {
+      "id": 10,
+      "title": "Food Delivery Admin",
+      "category": "Application",
+      "image": "images/project-13.png",
+      "link":"https://food-delivery-admin-p5vm.onrender.com"
+    }
+  ]
+  
