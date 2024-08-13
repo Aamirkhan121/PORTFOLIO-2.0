@@ -4,6 +4,11 @@ import Testimonial from "./Testimonial";
 
 const servicesData=[
   {
+    "title": "Web Development",
+    "icon": "/images/icon-dev.svg",
+    "description": "I'm actively honing my skills by building projects with the MERN stack, focusing on both frontend and backend development to create complete web applications."
+  },
+  {
     "title": "Web design",
     "icon": "/images/icon-design.svg",
     "description": "The most modern and high-quality design made at a professional level."
@@ -12,11 +17,6 @@ const servicesData=[
     "title": "Front-end Developer",
     "icon": "/images/icon-dev.svg",
     "description": "High-quality development of sites at the fresher level."
-  },
-  {
-    "title": "Web Development",
-    "icon": "/images/icon-app.svg",
-    "description": "I'm actively honing my skills by building projects with the MERN stack, focusing on both frontend and backend development to create complete web applications."
   },
   // {
   //   "title": "Photography",
