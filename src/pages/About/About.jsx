@@ -16,7 +16,7 @@ const servicesData=[
   {
     "title": "Web Development",
     "icon": "/images/icon-app.svg",
-    "description": ""I'm actively honing my skills by building projects with the MERN stack, focusing on both frontend and backend development to create complete web applications.""
+    "description": "I'm actively honing my skills by building projects with the MERN stack, focusing on both frontend and backend development to create complete web applications."
   },
   // {
   //   "title": "Photography",
