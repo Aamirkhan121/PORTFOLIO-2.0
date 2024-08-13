@@ -41,12 +41,7 @@ const About = () => {
       </header>
       <section>
         <p>
-          As a fresh front-end developer, I bring a passion for crafting
-          visually appealing and user-friendly websites using HTML, CSS, and
-          JavaScript. Excited to delve into React.js, I aim to create dynamic
-          and responsive web applications. With a commitment to learning and
-          creativity, I'm eager to contribute to innovative projects and grow in
-          the ever-evolving field of web development.
+          "As a fresher MERN stack web developer, I am eager to apply my knowledge of MongoDB, Express, React, and Node.js to build dynamic and user-friendly web applications. I have a strong foundation in web development and am passionate about learning new technologies. I am committed to delivering high-quality solutions and growing as a developer."
         </p>
       </section>
       {/* service */}
