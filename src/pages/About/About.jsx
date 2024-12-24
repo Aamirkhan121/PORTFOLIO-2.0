@@ -3,21 +3,21 @@ import Service from "./Service";
 import Testimonial from "./Testimonial";
 
 const servicesData=[
-  // {
-  //   "title": "Web design",
-  //   "icon": "/images/icon-design.svg",
-  //   "description": "The most modern and high-quality design made at a professional level."
-  // },
+  {
+    "title": "Web Development",
+    "icon": "/images/icon-dev.svg",
+    "description": "I'm actively honing my skills by building projects with the MERN stack, focusing on both frontend and backend development to create complete web applications."
+  },
+  {
+    "title": "Web design",
+    "icon": "/images/icon-design.svg",
+    "description": "The most modern and high-quality design made at a professional level."
+  },
   {
     "title": "Front-end Developer",
     "icon": "/images/icon-dev.svg",
     "description": "High-quality development of sites at the fresher level."
   },
-  // {
-  //   "title": "Mobile apps",
-  //   "icon": "/images/icon-app.svg",
-  //   "description": "Professional development of applications for iOS and Android."
-  // },
   // {
   //   "title": "Photography",
   //   "icon": "/images/icon-photo.svg",
@@ -41,12 +41,7 @@ const About = () => {
       </header>
       <section>
         <p>
-          As a fresh front-end developer, I bring a passion for crafting
-          visually appealing and user-friendly websites using HTML, CSS, and
-          JavaScript. Excited to delve into React.js, I aim to create dynamic
-          and responsive web applications. With a commitment to learning and
-          creativity, I'm eager to contribute to innovative projects and grow in
-          the ever-evolving field of web development.
+          "As a fresher MERN stack web developer, I am eager to apply my knowledge of MongoDB, Express, React, and Node.js to build dynamic and user-friendly web applications. I have a strong foundation in web development and am passionate about learning new technologies. I am committed to delivering high-quality solutions and growing as a developer."
         </p>
       </section>
       {/* service */}
