@@ -68,6 +68,20 @@
       "category": "Application",
       "image": "images/project-13.png",
       "link":"https://food-delivery-admin-p5vm.onrender.com"
+    },
+    {
+      "id": 11,
+      "title": "Mern Hotel Booking",
+      "category": "Application",
+      "image": "images/project-14.png",
+      "link":"https://mern-booking-app-2-agi3.onrender.com"
+    },
+    {
+      "id": 12,
+      "title": "Chat App",
+      "category": "Application",
+      "image": "images/project-15.png",
+      "link":"https://chat-app-a-k.onrender.com"
     }
   ]
   
